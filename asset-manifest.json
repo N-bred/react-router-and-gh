@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/N-bred/react-router-and-gh/static/css/main.24894685.chunk.css",
-    "main.js": "/N-bred/react-router-and-gh/static/js/main.b47f579d.chunk.js",
-    "main.js.map": "/N-bred/react-router-and-gh/static/js/main.b47f579d.chunk.js.map",
-    "runtime~main.js": "/N-bred/react-router-and-gh/static/js/runtime~main.650e0f69.js",
-    "runtime~main.js.map": "/N-bred/react-router-and-gh/static/js/runtime~main.650e0f69.js.map",
-    "static/js/2.5156bfa5.chunk.js": "/N-bred/react-router-and-gh/static/js/2.5156bfa5.chunk.js",
-    "static/js/2.5156bfa5.chunk.js.map": "/N-bred/react-router-and-gh/static/js/2.5156bfa5.chunk.js.map",
-    "index.html": "/N-bred/react-router-and-gh/index.html",
-    "precache-manifest.4706a17b4c8e82ed623202b83e460917.js": "/N-bred/react-router-and-gh/precache-manifest.4706a17b4c8e82ed623202b83e460917.js",
-    "service-worker.js": "/N-bred/react-router-and-gh/service-worker.js",
-    "static/css/main.24894685.chunk.css.map": "/N-bred/react-router-and-gh/static/css/main.24894685.chunk.css.map",
-    "static/media/astro.jpg": "/N-bred/react-router-and-gh/static/media/astro.11520a43.jpg",
-    "static/media/mountains.jpg": "/N-bred/react-router-and-gh/static/media/mountains.56b04fcf.jpg",
-    "static/media/tree.jpg": "/N-bred/react-router-and-gh/static/media/tree.cab63662.jpg"
+    "main.css": "/react-router-and-gh/static/css/main.24894685.chunk.css",
+    "main.js": "/react-router-and-gh/static/js/main.90aa2393.chunk.js",
+    "main.js.map": "/react-router-and-gh/static/js/main.90aa2393.chunk.js.map",
+    "runtime~main.js": "/react-router-and-gh/static/js/runtime~main.0466d447.js",
+    "runtime~main.js.map": "/react-router-and-gh/static/js/runtime~main.0466d447.js.map",
+    "static/js/2.5156bfa5.chunk.js": "/react-router-and-gh/static/js/2.5156bfa5.chunk.js",
+    "static/js/2.5156bfa5.chunk.js.map": "/react-router-and-gh/static/js/2.5156bfa5.chunk.js.map",
+    "index.html": "/react-router-and-gh/index.html",
+    "precache-manifest.fcf874c52fe3fdb7354e2758c143ccd9.js": "/react-router-and-gh/precache-manifest.fcf874c52fe3fdb7354e2758c143ccd9.js",
+    "service-worker.js": "/react-router-and-gh/service-worker.js",
+    "static/css/main.24894685.chunk.css.map": "/react-router-and-gh/static/css/main.24894685.chunk.css.map",
+    "static/media/astro.jpg": "/react-router-and-gh/static/media/astro.11520a43.jpg",
+    "static/media/mountains.jpg": "/react-router-and-gh/static/media/mountains.56b04fcf.jpg",
+    "static/media/tree.jpg": "/react-router-and-gh/static/media/tree.cab63662.jpg"
   }
 }
